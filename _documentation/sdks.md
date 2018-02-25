@@ -14,3 +14,4 @@ There are multiple developer SDKs available. To see how to install and use them,
 - Kotlin SDK: [https://github.com/MagicTheGathering/mtg-sdk-kotlin](https://github.com/MagicTheGathering/mtg-sdk-kotlin)
 - Go SDK: [https://github.com/MagicTheGathering/mtg-sdk-go](https://github.com/MagicTheGathering/mtg-sdk-go)
 - Swift SDK: [https://github.com/MagicTheGathering/mtg-sdk-swift](https://github.com/MagicTheGathering/mtg-sdk-swift)
+- Typescript SDK: [https://github.com/MagicTheGathering/mtg-sdk-typescript](https://github.com/MagicTheGathering/mtg-sdk-typescript)
