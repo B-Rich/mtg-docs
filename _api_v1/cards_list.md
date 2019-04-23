@@ -147,7 +147,7 @@ colors
 : The card colors. Usually this is derived from the casting cost, but some cards are special (like the back of dual sided cards and Ghostfire).
 
 colorIdentity
-: The card colors by color code. [“Red”, “Blue”] becomes [“R”, “U”]
+: The card's color identity, by color code. [“Red”, “Blue”] becomes [“R”, “U”]. A card's color identity includes colors from the card's rules text.
 
 type
 : The card type. This is the type you would see on the card if printed today. Note: The dash is a UTF8 'long dash’ as per the MTG rules
