@@ -50,7 +50,7 @@ cards = Card.where(name='"Archangel Avacyn"').all()
 const mtg = require('mtgsdk')
 
 // partial name match
-mtg.card.where({name: '"Archangel Avacyn"'})
+mtg.card.where({name: 'Archangel Avacyn'})
 .then(results => {
     console.log(results)
 })
